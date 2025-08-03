@@ -1,1 +1,16 @@
 
+---
+layout: post
+title: "My First Post"
+categories: [Research, CFD]
+tags: [gravity currents, turbulence]
+math: true
+---
+
+This is my **first blog post** with Jekyll Chirpy!
+
+Example formula:
+
+$$
+\nabla \cdot \vec{u} = 0
+$$
