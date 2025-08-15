@@ -4,5 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+My name is Yu-Lin Huang, and I am a professor in the Department of Water Resources and Environmental Engineering at Tamkang University, Taiwan.
+
+My research focuses on fluid mechanics, with particular emphasis on gravity currents and turbulence. I employ a combination of laboratory experiments and computational fluid dynamics to investigate these flows.
+
+Currently, I am using the Nek5000 spectral element solver to simulate gravity-driven flows, with the goal of gaining deeper insights into their propagation structures under varying geometries and buoyancy conditions.
