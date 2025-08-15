@@ -12,5 +12,5 @@ Currently, I am using the Nek5000 spectral element solver to simulate gravity-dr
 
 ## Education
 - **Ph.D.**, Department of Engineering Science and Ocean Engineering, National Taiwan University, Taiwan
-- **M.Sc.**, Department of Water Recources and Environmental Engineering, Tamkang University, Taiwan
-- **B.S.**, Department of Water Recources and Environmental Engineering, Tamkang University, Taiwan
+- **M.S.**, Department of Water Resources and Environmental Engineering, Tamkang University, Taiwan
+- **B.S.**, Department of Water Resources and Environmental Engineering, Tamkang University, Taiwan
