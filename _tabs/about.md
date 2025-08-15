@@ -9,3 +9,8 @@ My name is Yu-Lin Huang, and I am a assistant professor in the Department of Wat
 My research focuses on fluid mechanics, with particular emphasis on gravity currents and turbulence. I employ a combination of laboratory experiments and computational fluid dynamics to investigate these flows.
 
 Currently, I am using the Nek5000 spectral element solver to simulate gravity-driven flows, with the goal of gaining deeper insights into their propagation structures under varying geometries and buoyancy conditions.
+
+## Education
+- **Ph.D.**, National Taiwan University, Taiwan
+- **M.Sc.**, Tamkang University, Taiwan
+- **B.Eng.**, Tamkang University, Taiwan
