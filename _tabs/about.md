@@ -11,6 +11,6 @@ My research focuses on fluid mechanics, with particular emphasis on gravity curr
 Currently, I am using the Nek5000 spectral element solver to simulate gravity-driven flows, with the goal of gaining deeper insights into their propagation structures under varying geometries and buoyancy conditions.
 
 ## Education
-- **Ph.D.**, National Taiwan University, Taiwan
-- **M.Sc.**, Tamkang University, Taiwan
-- **B.Eng.**, Tamkang University, Taiwan
+- **Ph.D.**, Department of Engineering Science and Ocean Engineering, National Taiwan University, Taiwan
+- **M.Sc.**, Department of Water Recources and Environmental Engineering, Tamkang University, Taiwan
+- **B.S.**, Department of Water Recources and Environmental Engineering, Tamkang University, Taiwan
