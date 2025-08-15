@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-My name is Yu-Lin Huang, and I am a professor in the Department of Water Resources and Environmental Engineering at Tamkang University, Taiwan.
+My name is Yu-Lin Huang, and I am a assistant professor in the Department of Water Resources and Environmental Engineering at Tamkang University, Taiwan.
 
 My research focuses on fluid mechanics, with particular emphasis on gravity currents and turbulence. I employ a combination of laboratory experiments and computational fluid dynamics to investigate these flows.
 
